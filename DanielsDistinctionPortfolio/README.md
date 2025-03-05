@@ -67,13 +67,12 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 
 <a name="VBA"></a>
 ### Automating Business Processes with VBA
-<i>Winter 2021 - Spring 2022</i>
+<i>Winter 2024</i>
 <br>
-<br>In my Optomization Modeling class, I learned how to streamline and optomize processes based on certain restraints using python. 
+<br>In my Optomization Modeling class, I learned how to streamline and optomize processes based on certain restraints using python. We solved questions of distributions systems by minimizing distance traveled, and questions of profit optomization based on raw material inventory and sales expectations. The final project for this course was todevelop a optomization equation to find the most optimal NBA fantasy team. I did this by implementing scoring weights for aspects like age, blocks, turnovers, and 3 point scores. I needed to design contraints that chose players from each position and fit under a certain budget price, much like a real life fantasy draft.  
 
-The repetitive task I identified and sought to automate was matching registrations for the certification exams against a list of students supposed to be registered for those exams. While it may seem trivial, this consumed unnecessary time and effort when completed manually, particularly given how frequently the task is completed. After understanding the process and goal, I designed and developed a solution to complete this task with the click of a button, and I added additional functionality, like error checking, to better meet our needs and even improve our work. Since its implementation, I have trained team members on how to use it, provided documentation, and maintained and improved it. This is just one example of identifying a problem and developing a solution, ultimately allowing our team to minimize repetitive work and maximize time and energies on student, staff, and program development.
 <br>
-<br>This project allowed me to develop my skill set, particularly related to coding and seeing a project through every phase of the development cycle including planning, analysis, design, implementation, testing, training, and maintenance.
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
