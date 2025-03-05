@@ -19,3 +19,11 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Marketing Club Member</b>: Design and participate in events and engage with professionals to keep up with trending topics.</li>
   <li><b>Madden Challenge Finalist</b>: Selected as top 10 finalist in IOT product idea competition out of more than 100 teams.</li>
 </ul>
+
+## Jobs and Internships
+<i>See my [LinkedIn](https://www.linkedin.com/in/tyler-brunet)</i>
+<ul>
+  <li><b>Closing Manager at Caraluzzi's Market</b>: Recieved promotion from associate baker to closing manager due to my efficiency in operations and ability to train new hires. I was able to increase packaging speed from oven rack to shelf by 12% by modifying the organization of packing materials. This change also improved material ordering accuracy with supplies being easier to find and measure, greatly reducing the amount of over ordering.</li>
+  <li><b>Assistant Instructor at American Tiger Martial Arts</b>: This position was offered to me by the founder after earning my black belt in taekwondo with 10 years of apprenticeship at ATMA. With this role came shadowing and eventually leading between 4-6 hour long classes a day full of students ranging from 5-40 years old. Despite animosity from the older students because of the age gap, I stayed focused and always acted with dicipline and respect, experience that I consider to have built the foundation for myself years later. This role taught me how to lead and adapt to different ages and personality types so that the students can learn and improve.  </li>
+
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
