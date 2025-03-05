@@ -33,3 +33,64 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
   <li><b>Assistant Instructor at American Tiger Martial Arts</b>: This position was offered to me by the founder after earning my black belt in taekwondo with 10 years of apprenticeship at ATMA. With this role came shadowing and eventually leading between 4-6 hour long classes a day full of students ranging from 5-40 years old. Despite animosity from the older students because of the age gap, I stayed focused and always acted with dicipline and respect, experience that I consider to have built the foundation for myself years later. This role taught me how to lead and adapt to different ages and personality types so that the students can learn and improve.  </li>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+
+## Skills
+
+<table>
+  <tr>
+    <th>Tools and Technical Skills</th>
+    <th>Certifications</th>
+  </tr>
+  <tr>
+    <td>
+     <ul>
+        <li>SQL</li>
+        <li>ArcGIS</li>
+        <li>Python</li>
+        <li>R</li>
+        <li>NodeXL</li>
+        <li>Microsoft SQL Server Management Studio</li>
+        <li>Microsoft Visual Studio</li>
+        <li>Tableau</li>
+       <li>PowerBI</li>
+        <li>Google Colab</li>
+       <li>Microsoft Teams</li>
+      </ul>
+    </td>
+    <td>
+     <ul>
+        <li>Microsoft Expert Excel 2019</li>
+        <li>Microsoft Expert Word 2019</li>
+        <li>Microsoft Expert PowerPoint 2019</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>CliftonStrengths</th>
+    <th>Other Skills</th>
+ </tr>
+ <tr>
+   <td>
+     <ol>
+        <li>Analytical</li>
+        <li>Strategic</li>
+        <li>Adaptability</li>
+        <li>Discipline</li>
+        <li>Consistency</li>
+     </ol>
+   </td>
+   <td>
+     <ul>
+        <li>Teaching</li>
+        <li>Facilitating</li>
+       <li>Problem Solving</li>
+       <li>Agile</li>
+       <li>Composed</li>
+       <li>Process Minded</li>
+       <li>Prompt Engineering</li>
+     </ul>
+   </td>
+ </tr>
+</table>
+
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
