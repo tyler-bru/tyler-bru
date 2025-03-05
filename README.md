@@ -3,6 +3,7 @@
 
 ## Welcome! This is a little about me and a sampling of my work.
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
+[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#DanielsDistinction)
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
 [<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
 
@@ -19,6 +20,11 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Marketing Club Member</b>: Design and participate in events and engage with professionals to keep up with trending topics.</li>
   <li><b>Madden Challenge Finalist</b>: Selected as top 10 finalist in IOT product idea competition out of more than 100 teams.</li>
 </ul>
+
+<a name="DanielsDistinction"></a>
+#### Daniels Distinction Portfolio
+In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
+[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/DanielsDistinctionPortfolio/#top)
 
 ## Jobs and Internships
 <i>See my [LinkedIn](https://www.linkedin.com/in/tyler-brunet)</i>
