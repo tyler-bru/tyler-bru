@@ -22,12 +22,17 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 <br>As part of my business strategy class, we had the opportunity to work with the executives of a local quick service food company: Birdcall. We worked in small teams of 4, researching the industry and competitors while optomizing Birdcall's resources and strengths to create and improve their competitive advantage. It was a great opportunity to be face to face with executives and apply my work to a real business case. It was also a great leadership opportunity, I managed my team by setting checkpoints based on the assignment rubric and scheduled hybrid meetings to make sure members weren't left behind. Our team was well organized and delivered a refined proposal for the Birdcall executives. 
 <br>
 <br>I took on the roll of researching the quick service food industry, and was able to find a niche that my team could build our strategy around. From my research, I was able to develop a PESTEL analysis on the industry and Porter's 5 Force model which helped my team and I find the most practical and sustainable recommendations. 
+<br>
 
 <br>
-![3400 Github Bird H F](https://github.com/user-attachments/assets/fc0a4f7a-d596-4f00-9e12-8f4c95d42ea3)
+
+![3400 Github Bird H F](https://github.com/user-attachments/assets/b6000794-f588-4ad7-a1ee-4eb55e154329)
+
 <br>
-![3400 Github Bird 5F](https://github.com/user-attachments/assets/4df59bc7-e377-4b2c-a92f-c8613c30f07c)
+
+![3400 Github Bird 5F](https://github.com/user-attachments/assets/4df59bc7-e377-4b2c-a92f-c8613c30f07c).
 <br>
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 ## Technical Knowledge
@@ -47,31 +52,26 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 <br>
 ![3400 Github LOL AI](https://github.com/user-attachments/assets/1eaa7d11-1729-40af-b4dd-0e9220b8738c)
 
-<br>
-[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="OLAP"></a>
-### Database Project: Back to Roots OLAP
-<i>Fall 2021</i>
+### Datawarehouse Project: AeroGrub
+<i>Fall 2024</i>
 <br>
-<br>During my Data Warehousing and Business Intelligence class in Fall 2021, I used my Back to Roots OLTP to plan, design, and build an enterprise data mart (OLAP) using SQL Server, Visio, Visual Studio, Excel, and Power BI. Throughout this process, I created busienss requirements and designed the data mart; built the data mart; extracted, transformed, and loaded (ETL) the data mart; and developed reports and dashboards from the data mart to answer the the business requirements' questions.
+<br>During my Data Warehousing and Business Intelligence class in Fall 2025, my partner and I used their AeroGrub database to plan, design, and build an enterprise data mart using SQL Server, Visio, Visual Studio, Excel, and Power BI. Throughout this process, I created busienss requirements and designed the data mart; built the data mart; extracted, transformed, and loaded (ETL) the data mart; and developed reports and dashboards from the data mart to answer the the business requirements' questions. 
 <br>
-<br><img width="1211" alt="BackToRootsDashboard" src="https://user-images.githubusercontent.com/91146906/152289272-89e5505c-4e6a-4f29-b516-66ec308c28af.png">
 <br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](../DanielsDistinctionPortfolio/BackToRootsOLAP/#top)
+![3400 Github AeroGrub](https://github.com/user-attachments/assets/02ad43df-d9a5-44d7-a666-2abac2db012e)
 
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+<br>
+<br>
 
 <a name="VBA"></a>
 ### Automating Business Processes with VBA
 <i>Winter 2021 - Spring 2022</i>
 <br>
-<br>In my Automating Business Processes class, I learned how to streamline processes and reduce repetitive work, specifically using VBA in Excel. After just a couple weeks, I realized the real impact this could have on the work I was doing for the Microsoft Office Certification Program. By automating repetitive, time-consuming tasks, my team and I could focus our energies elsewhere, like on maximizing support for TAs and students and growing the program.
-<br>
-<br>The repetitive task I identified and sought to automate was matching registrations for the certification exams against a list of students supposed to be registered for those exams. While it may seem trivial, this consumed unnecessary time and effort when completed manually, particularly given how frequently the task is completed. After understanding the process and goal, I designed and developed a solution to complete this task with the click of a button, and I added additional functionality, like error checking, to better meet our needs and even improve our work. Since its implementation, I have trained team members on how to use it, provided documentation, and maintained and improved it. This is just one example of identifying a problem and developing a solution, ultimately allowing our team to minimize repetitive work and maximize time and energies on student, staff, and program development.
+<br>In my Optomization Modeling class, I learned how to streamline and optomize processes based on certain restraints using python. 
+
+The repetitive task I identified and sought to automate was matching registrations for the certification exams against a list of students supposed to be registered for those exams. While it may seem trivial, this consumed unnecessary time and effort when completed manually, particularly given how frequently the task is completed. After understanding the process and goal, I designed and developed a solution to complete this task with the click of a button, and I added additional functionality, like error checking, to better meet our needs and even improve our work. Since its implementation, I have trained team members on how to use it, provided documentation, and maintained and improved it. This is just one example of identifying a problem and developing a solution, ultimately allowing our team to minimize repetitive work and maximize time and energies on student, staff, and program development.
 <br>
 <br>This project allowed me to develop my skill set, particularly related to coding and seeing a project through every phase of the development cycle including planning, analysis, design, implementation, testing, training, and maintenance.
 
