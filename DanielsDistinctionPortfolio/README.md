@@ -66,7 +66,7 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 <br>
 
 <a name="VBA"></a>
-### Automating Business Processes with VBA
+### Optomizing Business Processes
 <i>Winter 2024</i>
 <br>
 <br>In my Optomization Modeling class, I learned how to streamline and optomize processes based on certain restraints using python. We solved questions of distributions systems by minimizing distance traveled, and questions of profit optomization based on raw material inventory and sales expectations. The final project for this course was todevelop a optomization equation to find the most optimal NBA fantasy team. I did this by implementing scoring weights for aspects like age, blocks, turnovers, and 3 point scores. I needed to design contraints that chose players from each position and fit under a certain budget price, much like a real life fantasy draft.  
@@ -79,48 +79,24 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 
 
 ## And a little fun in the Colorado outdoors...
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160346964-fbbcb1ab-8b60-4c43-8676-88bfbbd2f8ec.jpg" width="460">
-      <br><i>Hiking Red Rocks with Freshman Seminar Fall 2018</i>
-      </td>
-        <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160350753-371241a7-4111-4d07-b1b6-87d15608513c.jpg" width="460">
-      <br><i>Hiking Mt. Sherman 14er Fall 2018</i>
-      </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253019-1cab3057-87fe-4f21-a44c-8a27f58781da.jpg" width="460">
-      <br><i>Rafting Colorado River Summer 2019</i>
-    </td>
-        <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253248-af857098-07eb-4c9d-86b8-531b48c52694.jpg" width="460">
-      <br><i>Bolder Boulder Spring 2019 / 5K in Wash Park Fall 2019</i>
-      </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160252752-aa75d597-dbf2-440c-9539-cd5ac380f7f3.jpg" width="460">
-      <br><i>Skiing Winter 2020</i>
-      </td>
-        <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253445-1d9d626f-7f9d-4550-8ffb-596c066ea718.jpg" width="460">
-      <br><i>Snowshoeing Winter 2020</i>
-      </td>
-  </tr>
-    <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160349054-2593e7e2-7f44-43d6-81d9-3c6ee62efd6f.jpg" width="460">
-      <br><i>Paddle Boarding Steamboat Lake Summer 2020</i>
-    </td>
-      <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253356-7b4e89d0-9c25-4fa9-8282-fbf0977e6a8b.jpg" width="460">
-      <br><i>Snowman Building Winter 2022</i>
-    </td>
-  </tr>
-</table>
+<br> Fred Again Concert at Ball Arena
+<br>
+<img src="https://github.com/user-attachments/assets/aba7a917-a249-4989-a013-7543571d67ce" width="400">
+<br>
+<br> Top Rope Rock Climbing in Front Range
+<br>
+<img src="https://github.com/user-attachments/assets/f6483704-f7ba-48ea-96cb-57ccf5bf1a67" width="400">
+<br>
+<br> Hiking St. Mary's Glacier
+<br>
+<img src="https://github.com/user-attachments/assets/bd010c0d-2dfe-46e0-8078-e23e6c3b9b49" width="400">
+<br>
+<br> Summiting Grays and Torreys
+<br>
+<img src="https://github.com/user-attachments/assets/7ac86801-25dc-48a8-965e-a7e96ee0cd76" width="400">
+
+
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
